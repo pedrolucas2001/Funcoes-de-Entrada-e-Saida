@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661974093 source:c:\users\pc\documents\devc\lendodados\main.c
+	<stdio.h>
+	<stdlib.h>
+
